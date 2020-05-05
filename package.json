@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "spit":"markdown-pdf -z src/styles.css src/resume.md"
+    "spit:pdf":"markdown-pdf -z src/styles.css src/resume.md -o dist/resume.pdf",
+    "spit:html":"markdown-pdf -z src/styles.css src/resume.md -o dist/resume.pdf",
+    "spit:html:watch":"markdown-html -s src/styles.css src/resume.md -o dist/resume.html -w",
+    "spit:html:pdf":"markdown-html -s src/styles.css src/resume.md -o dist/resume.html && html-pdf dist/resume.html dist/resume.pdf"
   }
 }
