@@ -1,0 +1,9 @@
+{
+  "name": "helene",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "spit":"markdown-pdf -z src/styles.css src/resume.md"
+  }
+}

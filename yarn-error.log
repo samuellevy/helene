@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/samuellevy/.nvm/versions/node/v10.16.3/bin/node /usr/local/bin/yarn init --y
+
+PATH: 
+  /Users/samuellevy/.pyenv/plugins/pyenv-virtualenvwrapper/shims:/Users/samuellevy/.pyenv/libexec:/Users/samuellevy/.pyenv/plugins/python-build/bin:/Users/samuellevy/.pyenv/plugins/pyenv-virtualenvwrapper/bin:/Users/samuellevy/.pyenv/plugins/pyenv-virtualenv/bin:/Users/samuellevy/.pyenv/plugins/pyenv-update/bin:/Users/samuellevy/.pyenv/plugins/pyenv-installer/bin:/Users/samuellevy/.pyenv/plugins/pyenv-doctor/bin:/Users/samuellevy/.pyenv/shims:/Users/samuellevy/.pyenv/bin:/usr/local/sbin:/Users/samuellevy/.nvm/versions/node/v10.16.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Users/samuellevy/.pyenv/plugins/pyenv-virtualenvwrapper/shims:/Users/samuellevy/.pyenv/libexec:/Users/samuellevy/.pyenv/plugins/python-build/bin:/Users/samuellevy/.pyenv/plugins/pyenv-virtualenvwrapper/bin:/Users/samuellevy/.pyenv/plugins/pyenv-virtualenv/bin:/Users/samuellevy/.pyenv/plugins/pyenv-update/bin:/Users/samuellevy/.pyenv/plugins/pyenv-installer/bin:/Users/samuellevy/.pyenv/plugins/pyenv-doctor/bin:/Users/samuellevy/.pyenv/shims:/Users/samuellevy/.pyenv/bin:/usr/local/sbin:/Users/samuellevy/.nvm/versions/node/v10.16.3/bin:/Users/samuellevy/Library/Android/sdk/emulator:/Users/samuellevy/Library/Android/sdk/tools:/Users/samuellevy/Library/Android/sdk/tools/bin:/Users/samuellevy/Library/Android/sdk/platform-tools:/Users/samuellevy/Library/Android/sdk/emulator:/Users/samuellevy/Library/Android/sdk/tools:/Users/samuellevy/Library/Android/sdk/tools/bin:/Users/samuellevy/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  10.16.3
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:136724:13)
+      at Interface.emit (events.js:198:13)
+      at Interface._ttyWrite (readline.js:801:16)
+      at ReadStream.onkeypress (readline.js:184:10)
+      at ReadStream.emit (events.js:198:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1075:36)
+      at ReadStream.emit (events.js:198:13)
+      at addChunk (_stream_readable.js:288:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
