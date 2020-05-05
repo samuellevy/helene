@@ -4,7 +4,7 @@ Brasileiro, 27 anos
 Rio de Janeiro, RJ
 
 **E-mail**: samuellevy.dev@gmail.com    
-**Celular**: +55 21 969430426
+**Celular**: +55 21 969430426  
 **Telegram** @samuellevyscl  
 **Skype**: samuellevy.developer
 
@@ -13,43 +13,43 @@ Rio de Janeiro, RJ
 ### Experiências anteriores
 - _2020 - presente_ - **Wooza** [Backend developer] - http://3aw.com  
 Desenvolvimento backend em .NET Framework, .NET Core projects.  
-  `.net .net core sqlserver mongodb nosql`
+`.net .net core sqlserver mongodb nosql`
 
 - _2019 - 2020_ - **Supplai** [Head of Frontend and Mobile Development] - http://3aw.com  
-Arquitetura e desenvolvimento de web e aplicativos móveis.
-  `react-native reactjs redux redux-saga rest`
+Arquitetura e desenvolvimento de web e aplicativos móveis.  
+`react-native reactjs redux redux-saga rest`
 
 - _2017 - 2019_ - **3aW Brasil** [Software Engineer] - http://3aw.com  
-Desenvolvedor fullstack responsável por arquitetura de sistemas, desenvolvimento de sites, aplicativos móveis e devOps.
-  `php cakephp laravel react-native reactjs mysql html5 css3 js xamarin devops c# rest devops aws`
+Desenvolvedor fullstack responsável por arquitetura de sistemas, desenvolvimento de sites, aplicativos móveis e devOps.  
+`php cakephp laravel react-native reactjs mysql html5 css3 js xamarin devops c# rest devops aws`
 
 - _2012 - 2019_ - **Nokengo Studio** - http://nokengo.com  
-Fundador e desenvolvedor fullstack de sistemas e websites.
-  `php cakephp html5 css3 js mysql swift devops`
+Fundador e desenvolvedor fullstack de sistemas e websites.  
+`php cakephp html5 css3 js mysql swift devops`
 
 - _2013 - 2017_ - **MultiRio** [Coordenador de Desenvolvimento] - http://multirio.rj.gov.br  
 Coordenador do setor de desenvolvimento do núcleo de tecnologia, sendo responsável pela equipe e desenvolvimento de diversos sistemas para uso da casa, bem como website e aplicativos móveis. (MultiRio é uma empresa pública da Cidade do Rio de Janeiro)  
-  `scrum kanban php cakephp joomla devops html5 css3 js c# unity3d ionic`
+`scrum kanban php cakephp joomla devops html5 css3 js c# unity3d ionic`
 
 - _2013_ - **Keruvx Publicidade** [Analista de Sistemas/Desenvolvedor] - http://keruvx.com.br  
 Arquiteura e desenvolvimento de diversos sites para clientes da empresa.  
-  `php cakephp joomla wordpress html5 css3 js`
+`php cakephp joomla wordpress html5 css3 js`
 
 - _2012-2013_ - **Uerj** [Desenvolvedor de Sistemas] - http://www.uerj.br  
-Desenvolvimento de sistema de gerenciamento de queixas e estabelecimentos para secretaria de turismo do estado.
-  `php cakephp html5 css3 js mysql devops`
+Desenvolvimento de sistema de gerenciamento de queixas e estabelecimentos para secretaria de turismo do estado.  
+`php cakephp html5 css3 js mysql devops`
 
 - _2012-2013_ - **Boo! Studio** [Desenvolvedor] - http://www.boostudio.com.br  
-Desenvolvimento de diversos websites para clientes da empresa.
-  `php cakephp html5 css3 js mysql`
+Desenvolvimento de diversos websites para clientes da empresa.  
+`php cakephp html5 css3 js mysql`
 
 - _2012-2013_ - **Rj Host** [Web Developer] - http://www.rjhost.com.br  
-Desenvolvimento de diversos websites para clientes da empresa.
-  `php cakephp html5 css3 js mysql`  
+Desenvolvimento de diversos websites para clientes da empresa.  
+`php cakephp html5 css3 js mysql`  
 
 - _2012_ - **Carambolas Produções** [Systems Developer]  
-Desenvolvimento de website e aplicativo de uma das produções da empresa.
-  `php cakephp html5 css3 js mysql object-c java`
+Desenvolvimento de website e aplicativo de uma das produções da empresa.  
+`php cakephp html5 css3 js mysql object-c java`
 
 ### Educação
 

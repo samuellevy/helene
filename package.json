@@ -4,9 +4,15 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "spit:pdf":"markdown-pdf -z src/styles.css src/resume.md -o dist/resume.pdf",
-    "spit:html":"markdown-pdf -z src/styles.css src/resume.md -o dist/resume.pdf",
-    "spit:html:watch":"markdown-html -s src/styles.css src/resume.md -o dist/resume.html -w",
-    "spit:html:pdf":"markdown-html -s src/styles.css src/resume.md -o dist/resume.html && html-pdf dist/resume.html dist/resume.pdf"
+    "spit:pdf": "markdown-pdf -z src/styles.css src/resume.md -o dist/resume.pdf",
+    "spit:html": "markdown-pdf -z src/styles.css src/resume.md -o dist/resume.pdf",
+    "spit:html:watch": "markdown-html -s src/styles.css src/resume.md -o dist/resume.html -w",
+    "spit:html:pdf": "markdown-html -s src/styles.css src/resume.md -o dist/resume.html && node index.js dist/resume.html dist/resume.pdf",
+    "spit": "node index.js dist/resume.html dist/resume.pdf"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "html-pdf": "^2.2.0",
+    "pdf": "^0.1.0"
   }
 }

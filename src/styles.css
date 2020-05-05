@@ -40,6 +40,15 @@ h1{
   font-weight: lighter;
   margin-bottom: 25px;
 }
+h1::after{
+  content:" ";
+  width: 100px;
+  height: 1px;
+  background: linear-gradient(-90deg, #2e3440, #eceff4, #2e3440);
+  position: absolute;
+  left: calc(50% - 50px);
+  top: 80px;
+}
 h1 + p, h1 + p + p, h1 + p + p + p{
   color: #2e3440;
 }
