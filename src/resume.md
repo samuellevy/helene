@@ -17,7 +17,7 @@ Rio de Janeiro, RJ
   `.net .net core sqlserver mongodb redis elasticsearch docker kubernetes rancher nosql`
 
 - _ago/2019 - jan/2020_ - **Supplai** [Head of Frontend and Mobile Development] - http://supplai.com.br  
-  Arquitetura e desenvolvimento do website e de dois aplicativos voltados especificamente para a empresa. Website em `ReactJS` e aplicativos móveis em `React Native`. Ambos usando `redux` para controle de estados, `redux-saga` para side-effects, `axios` para requisições rest e `styled-components`.
+  Arquitetura e desenvolvimento do website e de dois aplicativos voltados especificamente para a empresa. Website em `ReactJS` e aplicativos móveis em `React Native`. Ambos usando `redux` para controle de estados, `redux-saga` para side-effects, `axios` para requisições rest e `styled-components`.  
   `react-native reactjs redux redux-saga rest`
 
 - _set/2017 - ago/2019_ - **3aW Brasil** [Software Engineer] - http://3aw.com  
