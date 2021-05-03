@@ -12,7 +12,11 @@ Rio de Janeiro, RJ
 
 ### Experiências anteriores
 
-- _jan/2020 - presente_ - **Wooza** [Backend developer]  
+- _junho/2020 - presente_ - **Rede Globo** [Fullstack developer]  
+  Atuação com desenvolvimento backend e frontend em sistemas de gestão da casa em `.NET Framework`, `.NetCore`, `Angularjs` e `React`.  
+  `.net .net core oracle elasticsearch kibana`
+
+- _jan/2020 - jun/2020_ - **Wooza** [Backend developer]  
   Atuação com desenvolvimento backend nos sistemas de venda de planos das maiores operadoras de telefonia do Brasil, utilizando `.NET Framework` e `.NetCore`. Quebra de monolito em microservices em `.NetCore` e `Nodejs`. Uso de Redis para caching. Uso de `mongodb` e `elasticsearch` com `Kibana` como dashboard para logs.  
   `.net .net core sqlserver mongodb redis elasticsearch docker kubernetes rancher nosql`
 
