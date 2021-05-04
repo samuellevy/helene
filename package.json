@@ -3,16 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
-    "spit:pdf": "markdown-pdf -z src/styles.css src/resume.md -o dist/resume.pdf",
-    "spit:html": "markdown-pdf -z src/styles.css src/resume.md -o dist/resume.pdf",
-    "spit:html:watch": "markdown-html -s src/styles.css src/resume.md -o dist/resume.html -w",
-    "spit:html:pdf": "markdown-html -s src/styles.css src/resume.md -o dist/resume.html && node index.js dist/resume.html dist/resume.pdf",
-    "spit": "node index.js dist/resume.html dist/resume.pdf"
-  },
+  "scripts": {},
   "dependencies": {
-    "global": "^4.4.0",
-    "html-pdf": "^2.2.0",
-    "pdf": "^0.1.0"
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^4.1.0"
   }
 }
