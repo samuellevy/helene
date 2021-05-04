@@ -9,6 +9,11 @@
   border:0
 }
 
+@media print {
+  body {-webkit-print-color-adjust: exact;}
+}
+  
+
 html{
   margin: 40px;
   font-family: 'Inter', sans-serif;
@@ -95,15 +100,20 @@ html{
 
         .experience-box{
           margin: 15px 0;
+          width: 100%;
           li{
             display: flex;
+            width: 100%;
+            margin-bottom: 15px;
 
             .period{
-              width: 100%;
+              width: 35%;
               font-size: 14px;
+              font-style: italic;
             }
 
             .description{
+              width: 100%;
               h1{
                 font-size: 14px;
                 span{
@@ -125,8 +135,24 @@ html{
             display: inline-block;
             background-color: $base-color;
             padding: 3px 5px;
+            margin: 3px 0;
           }
         }
+
+        .urls-box{
+          margin: 15px 0;
+          li{
+            font-size: 13px;
+            display: block;
+            color: $base-color;
+            padding: 3px 5px;
+            margin: 3px 0;
+            a{
+              color: $base-color;
+            }
+          }
+        }
+
       }
     }
   }
